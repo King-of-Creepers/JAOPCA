@@ -1,0 +1,79 @@
+itemGroup.jaopca=JAOPCA
+
+#Default
+item.jaopca.dust.name=%s Por
+item.jaopca.nugget.name=%s Rög
+tile.jaopca.block.name=%s Blokk
+fluid.jaopca.molten=Olvadt %s
+item.jaopca.coin.name=%s Érme
+item.jaopca.gear.name=%s Fogaskerék
+item.jaopca.plate.name=%s Lap
+item.jaopca.stick.name=%s Rúd
+
+#Mekanism
+item.jaopca.dustDirty.name=Koszos %s Por
+item.jaopca.clump.name=%s Rakás
+item.jaopca.shard.name=%s Szilánk
+item.jaopca.crystal.name=%s Kristály
+gas.jaopca.slurryClean=Tiszta %s Műtrágya
+gas.jaopca.slurry=%s Műtrágya
+
+#IC2
+item.jaopca.crushed.name=Zúzott %s Érc
+item.jaopca.purified.name=Tisztított Zúzott %s Érc
+item.jaopca.dustTiny.name=Kis Kupac %s Por
+
+#ExNihiloOmnia
+item.jaopca.oreBroken.name=Törött %s Érc
+item.jaopca.oreNetherBroken.name=Törött %s Érc
+item.jaopca.oreEnderBroken.name=Törött %s Érc
+item.jaopca.oreCrushed.name=Zúzott %s Érc
+item.jaopca.orePowdered.name=Feltötltött %s Érc
+tile.jaopca.oreGravel.name=%s Érc Sóder
+tile.jaopca.oreNetherGravel.name=Pokoli %s Érc Sóder
+tile.jaopca.oreEnderGravel.name=Ender %s Érc Sóder
+tile.jaopca.oreSand.name=%s Érc Homok
+tile.jaopca.oreFine.name=%s Érc por
+
+#ExNihiloCreatio
+item.jaopca.piece.name=%s Ore Piece
+item.jaopca.hunk.name=%s Ore Chunk
+
+#AbyssalCraft
+item.jaopca.crystalFragment.name=Kristályosított %s Töredék
+item.jaopca.crystalShard.name=Kristályosított %s Szilánk
+item.jaopca.crystalAbyss.name=Kristályosított %s
+tile.jaopca.crystalCluster.name=Kristályosított %s Fürt
+
+#TechReborn
+item.jaopca.dustSmall.name=Kis Kupac %s Por
+
+#SkyResources
+item.jaopca.dustAlch.name=%s Alkémikus Érc Por
+item.jaopca.dirtyGem.name=Koszos %s
+
+#Magneticraft
+item.jaopca.rockyChunk.name=%s Kavicsos Darab
+item.jaopca.chunk.name=%s Darab
+
+#TeslaPoweredThingies
+item.jaopca.teslaLump.name=Teslizált %s Csomó
+item.jaopca.augmentedLump.name=Kiterjesztett %s Csomó
+
+#Please refer to zh_CN or zh_TW for all names to localize.
+#Ingots
+jaopca.entry.LiquifiedCoralium=Coralium
+
+#Gems
+jaopca.entry.Lapis=Lapis Lazuli
+jaopca.entry.QuartzBlack=Fekete Kvarc
+
+#Dusts
+
+#IngotNoOres
+jaopca.entry.Aluminiumbrass=Aluminium Ötvözet
+jaopca.entry.ElvenElementium=Elementium
+jaocpa.entry.Galvanizedsteel=Galvanizált Acél
+jaopca.entry.Stainlesssteel=Rozsdamentes Acél
+
+#GemNoOres
